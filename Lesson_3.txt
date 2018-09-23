@@ -1,0 +1,18 @@
+Breakpoints:        Start small and slowly increase page width.
+                    Stop when the NAV or Other elements are big enough and have started to take up more space than it is actually required
+                    Or when you see that it is just space that is increasing and not the content size.
+
+Media Queries:      When the media query should kick in;
+                    Only till 400px = @media screen and (max-width: 400px)
+                    Greater than 300px but less than 601px = @media screen and (min-width: 301px) and (max-width: 600px)
+
+Grid Fluid System:  bootstrap or 960 layout.   
+
+Box Container:      Normal Block Layout each div inside the container div are positioned underneath the other one.    
+
+Flex box Container:  Fills the space available (expands/shrinks)
+                    add display:flex; to container div
+                    All div now show in a row, because by default the flex direction is row.
+                    by default flex items fit on a single line, no matter the width the items wont wrap.
+                    Browser would size them to fit within the viewport.
+                    Change that by adding flex-wrap: wrap; (telling browser) it is okay to wrap.
