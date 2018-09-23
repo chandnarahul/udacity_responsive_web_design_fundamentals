@@ -1,1 +1,1 @@
-"# Responsive Web Design Fundamentals" 
+# Udacity Responsive Web Design Fundamentals
