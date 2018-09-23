@@ -1,0 +1,8 @@
+Add view port
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    view port = user visible area of web page
+    device-width = width of the page to follow device screen width
+    initial-scale = set the initial zoom level when the page is loaded
+                    this means 1 css pixel is equal to 1 viewport pixel
+
+Element widths = use % in width instead of px
